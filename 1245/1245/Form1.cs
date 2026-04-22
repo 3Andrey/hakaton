@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -34,18 +35,14 @@ namespace _1245
             StreamReader reader = new StreamReader(res.GetResponseStream());
             string response  = reader.ReadToEnd();
             richTextBox1.Text = response;
-            data reactor = JsonConvert.DeserializeObject<data>(response);
-            label1.Text = reactor.reactor_state.temperature.ToString();
+            reactorResponse reactor = JsonConvert.DeserializeObject<reactorResponse>(response);
+            label1.Text = reactor.data.reactor_state.temperature.ToString();
+
         }
 
         private void chart1_Click(object sender, EventArgs e)
         {
-            // Create a Series and set type to Bar
-            Series series = new Series("Temp")
-            {
-                ChartType = SeriesChartType.Line,
-                IsValueShownAsLabel = true
-            };
+           
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -54,6 +51,21 @@ namespace _1245
         }
 
         private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        { // Create a Series and set type to Bar
+            Series series = new Series("Temp")
+            {
+                ChartType = SeriesChartType.Line,
+                IsValueShownAsLabel = true
+            };
+            
+        }
+
+        private void chart1_Click_1(object sender, EventArgs e)
         {
 
         }
