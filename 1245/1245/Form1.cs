@@ -63,13 +63,14 @@ namespace _1245
         {
             
             timer1.Enabled = true;
-            
 
-            chart1.ChartAreas[0].AxisY.Maximum = 1150;
             chart1.ChartAreas[0].AxisY.Minimum = 1100;
+            chart1.ChartAreas[0].AxisY.Maximum = 1350;
+            
         
             chart1.ChartAreas[0].AxisX.LabelStyle.Format = "H:mm:ss";
             chart1.Series[0].XValueType = ChartValueType.DateTime;
+
             chart1.ChartAreas[0].AxisX.Maximum = DateTime.Now.AddMinutes(1).ToOADate();
             chart1.ChartAreas[0].AxisX.Maximum = DateTime.Now.ToOADate();
 
@@ -95,9 +96,40 @@ namespace _1245
             label1.Text = reactor.data.reactor_state.temperature.ToString();
 
             DateTime timeNow = DateTime.Now;
+            double time = timeNow.ToOADate();
             double temperature = reactor.data.reactor_state.temperature;
 
-            chart1.Series[0].Points.AddXY(ConvertToDouble(timeNow), temperature);
+            //chart1.Series[0].Points.AddXY(time, temperature);
+
+            secondsCounter++;
+
+            if(secondsCounter == 60)
+            {
+                secondsCounter = 0;
+
+                chart1.ChartAreas[0].AxisX.Maximum = DateTime.Now.AddMinutes(1).ToOADate();
+                chart1.ChartAreas[0].AxisX.Maximum = DateTime.Now.ToOADate();
+
+                chart1.ChartAreas[0].AxisX.IntervalType = DateTimeIntervalType.Seconds;                
+                chart1.ChartAreas[0].AxisX.Interval = 15;
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string url = "https://mephi.opentoshi.net/api/v1/reactor/refill-water?team_id=b3bbb1e4&amount=30";
+
+            HttpWebRequest req = (HttpWebRequest)WebRequest.Create(url);
+            req.Method = "POST";
+            req.ContentLength = 0; 
+
+            using (HttpWebResponse res = (HttpWebResponse)req.GetResponse())
+            using (StreamReader reader = new StreamReader(res.GetResponseStream()))
+            {
+                string responseText = reader.ReadToEnd();
+                Console.WriteLine(responseText);
+            }
+
         }
     }
 }

@@ -58,7 +58,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(919, 35);
+            this.button1.Location = new System.Drawing.Point(851, 35);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(162, 41);
             this.button1.TabIndex = 1;
@@ -74,16 +74,17 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(919, 113);
+            this.button2.Location = new System.Drawing.Point(851, 113);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(162, 41);
             this.button2.TabIndex = 4;
             this.button2.Text = "охлад";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(919, 195);
+            this.button3.Location = new System.Drawing.Point(851, 195);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(162, 41);
             this.button3.TabIndex = 5;
@@ -130,11 +131,13 @@
             // 
             // chart1
             // 
+            chartArea1.AxisY.Maximum = 1350D;
+            chartArea1.AxisY.Minimum = 1100D;
             chartArea1.Name = "ChartArea1";
             this.chart1.ChartAreas.Add(chartArea1);
             legend1.Name = "Legend1";
             this.chart1.Legends.Add(legend1);
-            this.chart1.Location = new System.Drawing.Point(12, 13);
+            this.chart1.Location = new System.Drawing.Point(17, 35);
             this.chart1.Name = "chart1";
             series1.ChartArea = "ChartArea1";
             series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
@@ -150,7 +153,7 @@
             series2.Name = "Series2";
             this.chart1.Series.Add(series1);
             this.chart1.Series.Add(series2);
-            this.chart1.Size = new System.Drawing.Size(1106, 343);
+            this.chart1.Size = new System.Drawing.Size(308, 129);
             this.chart1.TabIndex = 10;
             this.chart1.Text = "chart1";
             this.chart1.Click += new System.EventHandler(this.chart1_Click_1);
