@@ -1,0 +1,13 @@
+C:\Users\phenazepam\Desktop\проекты\1245\1245\bin\Release\1245.exe.config
+C:\Users\phenazepam\Desktop\проекты\1245\1245\bin\Release\1245.exe
+C:\Users\phenazepam\Desktop\проекты\1245\1245\bin\Release\1245.pdb
+C:\Users\phenazepam\Desktop\проекты\1245\1245\bin\Release\Newtonsoft.Json.dll
+C:\Users\phenazepam\Desktop\проекты\1245\1245\bin\Release\Newtonsoft.Json.xml
+C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Release\1245.csproj.AssemblyReference.cache
+C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Release\_1245.Form1.resources
+C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Release\_1245.Properties.Resources.resources
+C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Release\1245.csproj.GenerateResource.cache
+C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Release\1245.csproj.CoreCompileInputs.cache
+C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Release\1245.csproj.Up2Date
+C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Release\1245.exe
+C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Release\1245.pdb

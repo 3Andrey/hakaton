@@ -18,10 +18,10 @@ namespace _1245
     }
     internal class reactor_stateInfo
     {
-        public float radiation { get; set; }
+        public double radiation { get; set; }
 
-        public float temperature { get; set; }
+        public double temperature { get; set; }
 
-        public float water_level { get; set; }
+        public double water_level { get; set; }
     }
 }
