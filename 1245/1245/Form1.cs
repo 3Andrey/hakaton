@@ -139,13 +139,25 @@ namespace _1245
             {
                 dataGridView1.Rows[0].Cells[0].Style.BackColor=Color.Red;
             }
+            else
+            {
+                dataGridView1.Rows[0].Cells[0].Style.BackColor = Color.White;
+            }
             if (Convert.ToDouble(dataGridView1.Rows[0].Cells[1].Value) == 0)
             {
                 dataGridView1.Rows[0].Cells[1].Style.BackColor=Color.Red;
             }
+            else
+            {
+                dataGridView1.Rows[0].Cells[1].Style.BackColor = Color.White;
+            }
             if (Convert.ToDouble(dataGridView1.Rows[0].Cells[2].Value) >= 150)
             {
                 dataGridView1.Rows[0].Cells[2].Style.BackColor=Color.Red;
+            }
+            else
+            {
+                dataGridView1.Rows[0].Cells[2].Style.BackColor = Color.White;
             }
 
 

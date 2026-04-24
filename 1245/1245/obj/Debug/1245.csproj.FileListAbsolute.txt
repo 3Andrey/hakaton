@@ -38,3 +38,17 @@ E:\Новая папка\1245\1245\obj\Debug\1245.csproj.CoreCompileInputs.cache
 E:\Новая папка\1245\1245\obj\Debug\1245.csproj.Up2Date
 E:\Новая папка\1245\1245\obj\Debug\1245.exe
 E:\Новая папка\1245\1245\obj\Debug\1245.pdb
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\1245.exe.config
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\1245.exe
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\1245.pdb
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\Newtonsoft.Json.dll
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\Newtonsoft.Json.xml
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.csproj.AssemblyReference.cache
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.exe.config
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\_1245.Form1.resources
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\_1245.Properties.Resources.resources
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.csproj.GenerateResource.cache
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.csproj.CoreCompileInputs.cache
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.csproj.Up2Date
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.exe
+C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.pdb
