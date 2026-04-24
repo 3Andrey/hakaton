@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B3FB7637-E5A3-4E94-B580-366AFC2F5D93}|1245\\1245.csproj|solutionrelative:1245\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3FB7637-E5A3-4E94-B580-366AFC2F5D93}|1245\\1245.csproj|c:\\users\\phenazepam\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\reactorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3FB7637-E5A3-4E94-B580-366AFC2F5D93}|1245\\1245.csproj|C:\\Users\\phenazepam\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\reactorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3FB7637-E5A3-4E94-B580-366AFC2F5D93}|1245\\1245.csproj|solutionrelative:1245\\reactorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,13 +30,25 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\phenazepam\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\Form1.cs",
               "RelativeDocumentMoniker": "1245\\Form1.cs",
-              "ToolTip": "C:\\Users\\phenazepam\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\Form1.cs*",
-              "RelativeToolTip": "1245\\Form1.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\phenazepam\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\Form1.cs",
+              "RelativeToolTip": "1245\\Form1.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAwwH4AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T08:24:59.503Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\phenazepam\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\Form1.cs",
+              "RelativeDocumentMoniker": "1245\\Form1.cs",
+              "ToolTip": "C:\\Users\\phenazepam\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "1245\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T08:16:40.868Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
@@ -46,22 +58,10 @@
               "RelativeDocumentMoniker": "1245\\reactorResponse.cs",
               "ToolTip": "C:\\Users\\phenazepam\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\reactorResponse.cs",
               "RelativeToolTip": "1245\\reactorResponse.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T12:14:45.67Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\phenazepam\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\Form1.cs",
-              "RelativeDocumentMoniker": "1245\\Form1.cs",
-              "ToolTip": "C:\\Users\\phenazepam\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\1245\\1245\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "1245\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:16:40.868Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }

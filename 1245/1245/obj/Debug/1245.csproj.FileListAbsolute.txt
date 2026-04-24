@@ -11,17 +11,30 @@ C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Debug\1245.csproj.CoreC
 C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Debug\1245.csproj.Up2Date
 C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Debug\1245.exe
 C:\Users\phenazepam\Desktop\проекты\1245\1245\obj\Debug\1245.pdb
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\1245.exe.config
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\1245.exe
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\1245.pdb
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\Newtonsoft.Json.dll
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\bin\Debug\Newtonsoft.Json.xml
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.csproj.AssemblyReference.cache
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.exe.config
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\_1245.Form1.resources
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\_1245.Properties.Resources.resources
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.csproj.GenerateResource.cache
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.csproj.CoreCompileInputs.cache
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.csproj.Up2Date
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.exe
-C:\Users\butee\OneDrive\Desktop\hakaton\hakaton\1245\1245\obj\Debug\1245.pdb
+D:\Новая папка\1245\1245\bin\Debug\1245.exe.config
+D:\Новая папка\1245\1245\bin\Debug\1245.exe
+D:\Новая папка\1245\1245\bin\Debug\1245.pdb
+D:\Новая папка\1245\1245\bin\Debug\Newtonsoft.Json.dll
+D:\Новая папка\1245\1245\bin\Debug\Newtonsoft.Json.xml
+D:\Новая папка\1245\1245\obj\Debug\1245.csproj.AssemblyReference.cache
+D:\Новая папка\1245\1245\obj\Debug\_1245.Form1.resources
+D:\Новая папка\1245\1245\obj\Debug\_1245.Properties.Resources.resources
+D:\Новая папка\1245\1245\obj\Debug\1245.csproj.GenerateResource.cache
+D:\Новая папка\1245\1245\obj\Debug\1245.csproj.CoreCompileInputs.cache
+D:\Новая папка\1245\1245\obj\Debug\1245.csproj.Up2Date
+D:\Новая папка\1245\1245\obj\Debug\1245.exe
+D:\Новая папка\1245\1245\obj\Debug\1245.pdb
+E:\Новая папка\1245\1245\bin\Debug\1245.exe.config
+E:\Новая папка\1245\1245\bin\Debug\1245.exe
+E:\Новая папка\1245\1245\bin\Debug\1245.pdb
+E:\Новая папка\1245\1245\bin\Debug\Newtonsoft.Json.dll
+E:\Новая папка\1245\1245\bin\Debug\Newtonsoft.Json.xml
+E:\Новая папка\1245\1245\obj\Debug\1245.csproj.AssemblyReference.cache
+E:\Новая папка\1245\1245\obj\Debug\1245.exe.config
+E:\Новая папка\1245\1245\obj\Debug\_1245.Form1.resources
+E:\Новая папка\1245\1245\obj\Debug\_1245.Properties.Resources.resources
+E:\Новая папка\1245\1245\obj\Debug\1245.csproj.GenerateResource.cache
+E:\Новая папка\1245\1245\obj\Debug\1245.csproj.CoreCompileInputs.cache
+E:\Новая папка\1245\1245\obj\Debug\1245.csproj.Up2Date
+E:\Новая папка\1245\1245\obj\Debug\1245.exe
+E:\Новая папка\1245\1245\obj\Debug\1245.pdb
